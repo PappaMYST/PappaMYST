@@ -21,12 +21,16 @@ I'm a **Web Developer**, specializing in Laravel framework, and using TailwinCSS
 
 ### 📫 Connect with Me
 
-- 🌐 **LinkedIn**: [Darshan Shakya](https://www.linkedin.com/in/darshanshakyaz/)
-- 🌐 **GitHub**: [PappaMYST](https://github.com/PappaMYST)
+- **LinkedIn**: [Darshan Shakya](https://www.linkedin.com/in/darshanshakyaz/)
+- **GitHub**: [PappaMYST](https://github.com/PappaMYST)
 
 ---
 
 ⭐ **Feel free to check out my repositories and connect with me!** 🚀
+
+---
+
+![](https://komarev.com/ghpvc/?username=PappaMYST&color=blue)
 
 
 
