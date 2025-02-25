@@ -23,6 +23,7 @@ I'm a **Web Developer**, specializing in Laravel framework, and using TailwinCSS
 
 - **LinkedIn**: [Darshan Shakya](https://www.linkedin.com/in/darshanshakyaz/)
 - **GitHub**: [PappaMYST](https://github.com/PappaMYST)
+- **Instagram**: [darshanshakyaz](https://www.instagram.com/darshanshakyaz/)
 
 ---
 
