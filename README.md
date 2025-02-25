@@ -6,7 +6,7 @@ I'm a **Web Developer**, specializing in Laravel framework, and using TailwinCSS
 
 ### 🔧 Tech Stack & Skills
 
-<p style="display: flex; justify-content: center; 	align-items: center; 	gap: 16px;">
+<p style="display: flex; justify-content: center; align-items: center; 	gap: 16px; color:white;">
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="50" height="50"/>
