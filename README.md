@@ -1,6 +1,6 @@
 ### Hi there, I'm Darshan Shakya 👋
 
-I'm a **Web Developer**, specializing in Laravel framework, and using TailwinCSS for attractive UIs. I am currently learning Javascript and planning to learn React and React Native which complements my journey as a web developer.  
+I'm a **Web Developer**, specializing in Laravel framework, and using TailwinCSS for attractive UIs. I am currently learning Liverwire and AlpineJS which complements my journey as a web developer.  
 
 ---
 
